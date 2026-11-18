@@ -1,6 +1,6 @@
 ﻿# ELEC 4 - Python Programming
 
-Student: [YOUR FULL NAME]
+Student: Jessie B. Maralit
 Section: IV-BSIT A
 Instructor: Carl Gustaf Patrik B. Ferrer
 
