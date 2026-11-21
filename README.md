@@ -94,6 +94,37 @@ Exit Program:
 
 P4 - Safe Menu Program
 
+This Python program uses exception handling to
+manage division, file reading, and invalid menu
+selections without crashing.
+
+It demonstrates try, except, else, and finally.
+
+Activity Folder: [P4](set1/p4/)
+
+How to Run:
+`python set1/p4/p4_exceptions.py`
+
+Screenshots:
+
+Successful Division:
+![Division Success](set1/p4/screenshots/p4_division_success.png)
+
+Division by Zero:
+![Division by Zero](set1/p4/screenshots/p4_division_zero.png)
+
+Invalid Number:
+![Invalid Number](set1/p4/screenshots/p4_invalid_number.png)
+
+Missing File:
+![Missing File](set1/p4/screenshots/p4_missing_file.png)
+
+Invalid Menu:
+![Invalid Menu](set1/p4/screenshots/p4_invalid_menu.png)
+
+Successful File Reading:
+![File Reading](set1/p4/screenshots/p4_file_success.png)
+
 ======================================
 
 SET 2
