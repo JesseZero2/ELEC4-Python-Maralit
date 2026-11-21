@@ -5,7 +5,11 @@ Student: Jessie B. Maralit
 Section: IV-BSIT A
 Instructor: Carl Gustaf Patrik B. Ferrer
 
+===========================================================
+
 SET 1
+
+-----------
 
 P1 - Student Grade Calculator
 
@@ -29,13 +33,51 @@ Failing Result:
 Input Validation:
 ![Validation](set1/p1/screenshots/p1_validation.png)
 
+-----------
+
 P2 - Custom Module
+
+This program uses a custom Python module named
+student_utils.py to calculate the average, highest
+grade, lowest grade, and passing status.
+It also uses datetime to display the report date.
+
+Activity Folder: [P2](set1/p2/)
+
+How to Run:
+`python set1/p2/p2_main.py`
+
+Screenshots:
+Grade Report:
+![P2 Grade Report](set1/p2/screenshots/p2_grade_report.png)
+
+Input Validation:
+![P2 Validation](set1/p2/screenshots/p2_validation.png)
+
+-----------
+
 P3 - Student Record Manager
+
+-----------
+
 P4 - Safe Menu Program
+
+===========================================================
 
 SET 2
 
+-----------
+
 P5 - Student Information File System
+
+-----------
+
 P6 - Recursion Toolkit
+
+-----------
+
 P7 - Student Management System with Classes
+
+-----------
+
 P8 - Inheritance and Polymorphism
