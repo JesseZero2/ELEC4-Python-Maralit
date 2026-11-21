@@ -66,5 +66,4 @@ def main():
             print("Invalid menu choice. Try again.")
 
 
-# Start the program
 main()
