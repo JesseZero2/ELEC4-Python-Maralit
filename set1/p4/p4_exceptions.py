@@ -25,5 +25,46 @@ def divide_numbers():
         print("Division operation finished.")
 
 
-# Temporary test
-divide_numbers()
+# Function 2: Open and read a file
+def open_file():
+    filename = input("Enter file name: ")
+
+    try:
+        with open(filename, "r", encoding="utf-8") as file:
+            content = file.read()
+
+    except FileNotFoundError:
+        print("Error: File not found.")
+
+    else:
+        print("\nFile Contents:")
+        print(content)
+
+
+# Function 3: Main menu
+def main():
+    while True:
+        print("\n=== SAFE MENU PROGRAM ===")
+        print("Prepared by: Jessie B. Maralit")
+        print("1. Divide Numbers")
+        print("2. Open File")
+        print("3. Exit")
+
+        choice = input("Choose (1-3): ")
+
+        if choice == "1":
+            divide_numbers()
+
+        if choice == "2":
+            open_file()
+
+        if choice == "3":
+            print("Thank you! Goodbye.")
+            break
+
+        if choice not in ("1", "2", "3"):
+            print("Invalid menu choice. Try again.")
+
+
+# Start the program
+main()
