@@ -57,6 +57,39 @@ Input Validation:
 
 P3 - Student Record Manager
 
+This program manages student records using Python
+lists and sets. It allows users to add, remove,
+search, and display student names. It also prevents
+duplicate entries and displays students alphabetically.
+
+Activity Folder: [P3](set1/p3/)
+
+How to Run:
+`python set1/p3/p3_record_manager.py`
+
+Screenshots:
+
+Add Student:
+![P3 Add](set1/p3/screenshots/p3_add.png)
+
+Duplicate Prevention:
+![P3 Duplicate](set1/p3/screenshots/p3_duplicate.png)
+
+Search Student:
+![P3 Search](set1/p3/screenshots/p3_search.png)
+
+Remove Student:
+![P3 Remove](set1/p3/screenshots/p3_remove.png)
+
+Display Students:
+![P3 Display](set1/p3/screenshots/p3_display.png)
+
+Invalid Menu:
+![P3 Invalid](set1/p3/screenshots/p3_invalid.png)
+
+Exit Program:
+![P3 Exit](set1/p3/screenshots/p3_exit.png)
+
 ------------
 
 P4 - Safe Menu Program
